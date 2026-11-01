@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>أخبار طب الأسنان</title>
+<style>
+  :root { --bg:#f4f6f8; --card:#fff; --text:#1c2733; --muted:#5b6b7a; --accent:#0b7a75; --line:#e2e8ee; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#10161c; --card:#18212a; --text:#e7edf3; --muted:#93a4b3; --accent:#4fd1c5; --line:#26323d; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+         font-family: system-ui, -apple-system, "Segoe UI", Tahoma, sans-serif; }
+  header { padding:20px 16px 8px; max-width:1100px; margin:0 auto; }
+  h1 { margin:0 0 4px; font-size:1.5rem; }
+  #status { color:var(--muted); font-size:.85rem; }
+  main { max-width:1100px; margin:0 auto; padding:12px 16px 40px;
+         display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
+  a.card { display:block; background:var(--card); border:1px solid var(--line); border-radius:12px;
+           padding:16px; text-decoration:none; color:inherit; transition:transform .1s, border-color .1s; }
+  a.card:hover { transform:translateY(-2px); border-color:var(--accent); }
+  .title { font-weight:700; line-height:1.5; margin:0 0 10px; }
+  .source { color:var(--accent); font-size:.9rem; font-weight:600; }
+  .empty { grid-column:1/-1; text-align:center; color:var(--muted); padding:40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>أخبار طب الأسنان</h1>
+  <div id="status">جارٍ التحميل…</div>
+</header>
+<main id="list"></main>
+<script>
+(async () => {
+  const list = document.getElementById('list');
+  const status = document.getElementById('status');
+  try {
+    const res = await fetch('news.json?_=' + Date.now());
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    const items = data.items || [];
+    if (!items.length) {
+      list.innerHTML = '<div class="empty">لا توجد أخبار بعد. يتم التحديث يوميًا تلقائيًا.</div>';
+      status.textContent = '';
+      return;
+    }
+    for (const it of items) {
+      const a = document.createElement('a');
+      a.className = 'card';
+      a.href = it.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      const t = document.createElement('p'); t.className = 'title'; t.dir = 'auto'; t.textContent = it.title;
+      const s = document.createElement('div'); s.className = 'source'; s.dir = 'auto'; s.textContent = it.source;
+      a.append(t, s); list.append(a);
+    }
+    const d = new Date(data.updated);
+    status.textContent = 'آخر تحديث: ' + d.toLocaleString('ar') +
+      ' — ' + data.sources_ok + ' من ' + data.sources_total + ' مصادر';
+  } catch (e) {
+    status.textContent = 'تعذّر تحميل الأخبار.';
+  }
+})();
+</script>
+</body>
+</html>
