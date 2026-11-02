@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-01T20:20:09.445750+00:00",
- "sources_ok": 3,
+ "updated": "2026-11-02T12:58:23.318087+00:00",
+ "sources_ok": 4,
  "sources_total": 5,
  "items": [
+  {
+   "title": "Placing implants with confidence: what clinicians and labs learned at a guided surgery training day in Derby",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/02/placing-implants-with-confidence-what-clinicians-and-labs-learned-at-a-guided-surgery-training-day-in-derby/",
+   "time": "2026-11-02T08:22:33+00:00"
+  },
+  {
+   "title": "Study identifies shared genetic links between oral and gastro-intestinal diseases",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/study-identifies-shared-genetic-links-between-oral-and-gastro-intestinal-diseases/",
+   "time": "2026-11-02T07:32:31+00:00"
+  },
+  {
+   "title": "Registration opens for 2027 CDS Midwinter Meeting",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/registration-opens-for-2027-cds-midwinter-meeting/",
+   "time": "2026-11-02T07:17:52+00:00"
+  },
+  {
+   "title": "Changes to NHS dentistry in Wales – an untested system causing havoc",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/02/changes-to-nhs-dentistry-in-wales-an-untested-system-causing-havoc/",
+   "time": "2026-11-02T06:34:00+00:00"
+  },
   {
    "title": "NYSDA Names Josh Poupore as New Executive Director for 2027",
    "source": "Dentistry Today",
@@ -34,10 +58,22 @@
    "time": "2026-10-30T13:02:36+00:00"
   },
   {
+   "title": "Hall Technique outperforms silver fluoride in primary molar caries treatment",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/hall-technique-outperforms-silver-fluoride-in-primary-molar-caries-treatment/",
+   "time": "2026-10-30T11:27:10+00:00"
+  },
+  {
    "title": "Aspen Dental Offers Veterans Free Dental Savings Plan Enrollment",
    "source": "Dentistry Today",
    "link": "https://www.dentistrytoday.com/aspen-dental-offers-veterans-free-dental-savings-plan-enrollment/",
    "time": "2026-10-30T11:11:20+00:00"
+  },
+  {
+   "title": "Osstem shares implant planning and guided surgery workflows at Paris seminar",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/osstem-shares-implant-planning-and-guided-surgery-workflows-at-paris-seminar/",
+   "time": "2026-10-30T10:41:48+00:00"
   },
   {
    "title": "Philips Sonicare introduces AI toothbrush designed to transform daily brushing habits",
@@ -88,10 +124,28 @@
    "time": "2026-10-29T11:00:30+00:00"
   },
   {
+   "title": "Dentistry Show London 2026 attracts record attendance",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/dentistry-show-london-2026-attracts-record-attendance/",
+   "time": "2026-10-29T09:12:33+00:00"
+  },
+  {
+   "title": "More effective biofilm removal without extra treatment time in children",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/more-effective-biofilm-removal-without-extra-treatment-time-in-children/",
+   "time": "2026-10-29T07:53:49+00:00"
+  },
+  {
    "title": "Scientists discover that cranberry juice may help fight tooth decay",
    "source": "ScienceDaily – Dentistry",
    "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
    "time": "2026-10-29T07:12:06-04:00"
+  },
+  {
+   "title": "Mandibular occlusal plane management with micro-screws to correct an edge-to-edge incisal relationship",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/mandibular-occlusal-plane-management-with-micro-screws-to-correct-an-edge-to-edge-incisal-relationship/",
+   "time": "2026-10-29T06:09:59+00:00"
   },
   {
    "title": "Talking through taboo: the value of safe conversation during menopause",
@@ -100,10 +154,22 @@
    "time": "2026-10-28T12:29:00+00:00"
   },
   {
+   "title": "Mectron agrees to sell dental business to HuFriedyGroup",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/mectron-agrees-to-sell-dental-business-to-hufriedygroup/",
+   "time": "2026-10-28T11:23:46+00:00"
+  },
+  {
    "title": "We don’t do God in dentistry",
    "source": "Dentistry.co.uk",
    "link": "https://dentistry.co.uk/2026/10/28/religious-beliefs-dental-treatment/",
    "time": "2026-10-28T08:33:58+00:00"
+  },
+  {
+   "title": "Researchers investigate the effect of cranberry juice on dental plaque",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/researchers-investigate-the-effect-of-cranberry-juice-on-dental-plaque/",
+   "time": "2026-10-28T07:13:07+00:00"
   },
   {
    "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
@@ -122,6 +188,12 @@
    "source": "Dentistry.co.uk",
    "link": "https://dentistry.co.uk/2026/10/27/dental-community-engagement-roshan-roberts/",
    "time": "2026-10-27T10:16:50+00:00"
+  },
+  {
+   "title": "Scotland approves NHS dental pay rise, but BDA questions practice funding",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/scotland-announces-nhs-dental-pay-rise-amid-concerns-over-practice-costs/",
+   "time": "2026-10-27T09:30:00+00:00"
   },
   {
    "title": "Are dental students being taught to question AI?",
