@@ -1,8 +1,98 @@
 {
- "updated": "2026-11-18T13:35:26.162686+00:00",
- "sources_ok": 3,
+ "updated": "2026-11-19T14:01:57.913255+00:00",
+ "sources_ok": 4,
  "sources_total": 5,
  "items": [
+  {
+   "title": "New dental training places and emergency clinic funded in Northern Ireland",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/19/new-dental-training-places-and-emergency-clinic-funded-in-northern-ireland/",
+   "time": "2026-11-19T10:30:13+00:00"
+  },
+  {
+   "title": "Laser treatment may help children recover faster after dental anaesthesia",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/laser-treatment-may-help-children-recover-faster-after-dental-anaesthesia/",
+   "time": "2026-11-19T08:23:07+00:00"
+  },
+  {
+   "title": "How apprenticeships are developing stronger dental teams across England",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/19/how-apprenticeships-are-developing-stronger-dental-teams-across-england/",
+   "time": "2026-11-19T07:36:00+00:00"
+  },
+  {
+   "title": "Introducing the ‘scan every patient’ protocol",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/19/introducing-the-scan-every-patient-protocol/",
+   "time": "2026-11-19T06:27:00+00:00"
+  },
+  {
+   "title": "Three quarters of dentists have or aspire to have a portfolio career",
+   "source": "Dentistry.co.uk",
+   "link": "https://dentistry.co.uk/2026/11/19/three-quarters-of-dentists-have-or-aspire-to-have-a-portfolio-career/",
+   "time": "2026-11-19T00:01:00+00:00"
+  },
+  {
+   "title": "A-dec+ Technology Ecosystem",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/a-dec-technology-ecosystem/",
+   "time": "2026-11-18T20:57:30+00:00"
+  },
+  {
+   "title": "Aidite Rapid 5 Intraoral Scanner",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/aidite-rapid-5-intraoral-scanner/",
+   "time": "2026-11-18T20:57:29+00:00"
+  },
+  {
+   "title": "EyeSpecial Digital Dental Camera",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/eyespecial-digital-dental-camera/",
+   "time": "2026-11-18T20:57:28+00:00"
+  },
+  {
+   "title": "SmartXide UltraSpeed2 CO2 Laser",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/smartxide-ultraspeed2-co2-laser/",
+   "time": "2026-11-18T20:57:27+00:00"
+  },
+  {
+   "title": "fastmill.io In-Office Mill",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/fastmill-io-in-office-mill/",
+   "time": "2026-11-18T20:57:26+00:00"
+  },
+  {
+   "title": "ORTHOPANTOMOGRAPH OP 3D EX",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/orthopantomograph-op-3d-ex/",
+   "time": "2026-11-18T20:57:25+00:00"
+  },
+  {
+   "title": "Ritter Complete Operatory Bundle",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/ritter-complete-operatory-bundle/",
+   "time": "2026-11-18T20:57:24+00:00"
+  },
+  {
+   "title": "exocad DentalCAD",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/exocad-dentalcad/",
+   "time": "2026-11-18T20:57:23+00:00"
+  },
+  {
+   "title": "Rodin Chroma Flash",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/rodin-chroma-flash/",
+   "time": "2026-11-18T20:57:22+00:00"
+  },
+  {
+   "title": "I-Max 3D XPRO",
+   "source": "Dentistry Today",
+   "link": "https://www.dentistrytoday.com/i-max-3d-xpro/",
+   "time": "2026-11-18T20:57:21+00:00"
+  },
   {
    "title": "‘I’m going to lose everything’: a dentist’s four-year fitness to practise ordeal",
    "source": "Dentistry.co.uk",
@@ -16,10 +106,22 @@
    "time": "2026-11-18T07:44:00+00:00"
   },
   {
+   "title": "Indirect adhesive restoration in the posterior region: The power of universal materials in a digital workflow",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/indirect-adhesive-restoration-in-the-posterior-region-the-power-of-universal-materials-in-a-digital-workflow/",
+   "time": "2026-11-18T07:00:18+00:00"
+  },
+  {
    "title": "How Does a Dentist’s Age Factor Into Qualified Employer Sponsored Retirement Plans",
    "source": "Dentistry Today",
    "link": "https://www.dentistrytoday.com/how-does-a-dentists-age-factor-into-qualified-employer-sponsored-retirement-plans/",
    "time": "2026-11-17T22:13:35+00:00"
+  },
+  {
+   "title": "Could silver diamine fluoride help young children avoid dental general anaesthesia?",
+   "source": "Dental Tribune",
+   "link": "https://www.dental-tribune.com/news/could-silver-diamine-fluoride-help-young-children-avoid-dental-general-anaesthesia/",
+   "time": "2026-11-17T16:36:08+00:00"
   },
   {
    "title": "Tuesday Morning Reflections With Dr. Silverman",
@@ -1100,108 +1202,6 @@
    "source": "ScienceDaily – Dentistry",
    "link": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
    "time": "2026-06-12T09:05:28-04:00"
-  },
-  {
-   "title": "Sleep apnea’s hidden heart disease trigger found in the gut",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/06/260608040002.htm",
-   "time": "2026-06-09T08:30:04-04:00"
-  },
-  {
-   "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
-   "time": "2026-05-25T01:01:09-04:00"
-  },
-  {
-   "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-   "time": "2026-05-20T08:54:32-04:00"
-  },
-  {
-   "title": "This silent tooth infection could be hurting your whole body",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/05/260515002146.htm",
-   "time": "2026-05-15T00:21:46-04:00"
-  },
-  {
-   "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
-   "time": "2026-05-08T05:27:16-04:00"
-  },
-  {
-   "title": "Boosting one protein helps the brain fight Alzheimer’s",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
-   "time": "2026-05-02T08:57:35-04:00"
-  },
-  {
-   "title": "New toothpaste stops gum disease without killing good bacteria",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
-   "time": "2026-04-13T10:02:46-04:00"
-  },
-  {
-   "title": "Artificial saliva made from sugarcane protein protects teeth from acid and decay",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/04/260403224458.htm",
-   "time": "2026-04-05T00:38:05-04:00"
-  },
-  {
-   "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm",
-   "time": "2026-03-26T06:42:12-04:00"
-  },
-  {
-   "title": "First ever atomic movie reveals hidden driver of radiation damage",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260324024251.htm",
-   "time": "2026-03-24T23:53:24-04:00"
-  },
-  {
-   "title": "This new tooth powder whitens teeth without damage",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260323005538.htm",
-   "time": "2026-03-23T20:24:30-04:00"
-  },
-  {
-   "title": "Gum disease bacterium linked to breast cancer growth and spread",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260319044719.htm",
-   "time": "2026-03-19T23:37:17-04:00"
-  },
-  {
-   "title": "Fixing a tooth infection may improve blood sugar and heart health",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260315225156.htm",
-   "time": "2026-03-15T22:51:56-04:00"
-  },
-  {
-   "title": "Laser printed hydrogel implant could transform bone repair",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/03/260303050626.htm",
-   "time": "2026-03-03T12:31:18-05:00"
-  },
-  {
-   "title": "This common tomato nutrient may help prevent severe gum disease",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/02/260208233841.htm",
-   "time": "2026-02-10T04:56:56-05:00"
-  },
-  {
-   "title": "A secret cell alliance may explain why ovarian cancer is so deadly",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/02/260209064254.htm",
-   "time": "2026-02-09T06:51:03-05:00"
-  },
-  {
-   "title": "This natural amino acid could help stop cavities before they start",
-   "source": "ScienceDaily – Dentistry",
-   "link": "https://www.sciencedaily.com/releases/2026/01/260108231335.htm",
-   "time": "2026-01-09T20:34:00-05:00"
   }
  ]
 }
